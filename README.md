@@ -1,5 +1,5 @@
 # Intro-to-Pandas
-This Notebook is based was made to help explain how to start using the Pandas Library for Data Science and Data manipulation in general. Please check my 
+This Notebook is based was made to help explain how to start using the Pandas Library for Data Science and Data manipulation in general.
 
 Tutorial to learn Data Science on Jupyter Notebook using the Pandas library for Python. We will see how to read the data, transform the data, generate statistics, generate graphs and how to write the data to different kind of formats using the Pandas library.
 
